@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	showName := "Diljits concert	" //cant be used for constants
+	showName := "Diljits concert" //cant be used for constants
 	const concertTickets int = 1000
 
 	var remainingTickets uint = 1000
